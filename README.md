@@ -1,5 +1,4 @@
 # Wumpus_Game-Utility-Based-Agent
-# Wumpus-game-Model-Based-Intelligent-Agent
 
 Wumpus Game is a partially observable and non-deterministic game
   Goal is to keep avoiding the pit and Wumpus and try to reach the gold
